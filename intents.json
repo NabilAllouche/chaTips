@@ -1,0 +1,164 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "hi",
+        "hello",
+        "hi there",
+        "Hey",
+        "what's up",
+        "whats up",
+        "any one here"
+      ],
+      "responses": [
+        "Hi! how can i assist you today ?",
+        "Hi! how can i help you today ?",
+        "Hello ! you want to succeed ? ask me ! "
+
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye Bye",
+        "Ok Bye ",
+        "see you later "
+      ],
+      "responses": [
+        "OK see you later \uD83D\uDC4B",
+        "thanks for visiting ,see you next time \uD83D\uDC4B",
+        "we are here for you to succeed , see you next time \uD83D\uDC4B "
+      ]
+    },
+    {
+      "tag": "Thanks",
+      "patterns": [
+        "thanks   ",
+        "thank you ",
+        "thank you so much "
+      ],
+      "responses": [
+        " Welcome ,we are here for your success \uD83D\uDE0A "
+      ]
+    },
+    {
+      "tag": "study tips",
+      "patterns": [
+        "study tips   ",
+        "tips   ",
+        "some study tips   ",
+        "give me some study tips ",
+        "i want to succeed  "
+      ],
+      "responses": [
+        " Sure , here some tips to follow : <br><br> 1. Set specific and achievable goals: It's important to know exactly what you want to accomplish when studying. Setting specific goals can help you stay focused and motivated. <br> <br>2. Create a study schedule: A study schedule can help you stay organized and manage your time effectively. Make sure to include breaks in your schedule to avoid burnout. <br> <br>3.Test yourself: Testing yourself can help you identify areas where you need to improve and reinforce the material you've already learned. <br><br> 4. Take breaks: Taking regular breaks can help you stay focused and avoid burnout. Make sure to take breaks that are long enough to recharge, but not so long that you lose momentum. <br><br> Here another tips you can use : <br> The Feynman Technique.<br> The Cornell Method.<br>The SQ3R Method.<br>The Mind Mapping Technique.<br>Pomodoro technique.<br>the Leitner System.<br>The Method of Loci <br><br> if you want more details about those techniques let me know.                        "
+      ]
+    },
+    {
+      "tag": "focus",
+      "patterns": [
+        "focus  ",
+        "i can't focus ",
+        "some stips to improve my focus  ",
+        "how to focus ",
+        "focusing"
+      ],
+      "responses": [
+        "Sure , here are some tips that may help you improve your focus:<br><br> 1. Minimize distractions: Try to eliminate any distractions in your environment, such as noise, bright lights, or notifications on your phone or computer. <br><br> 2. Take breaks: Taking short breaks can help you recharge your brain and increase your productivity. Consider taking a 5-10 minute break every hour or so.<br><br> 3. Prioritize your tasks: Make a list of your tasks in order of importance and focus on the most important ones first.<br><br> 4. Get enough sleep: Make sure you are getting enough sleep at night, as sleep deprivation can negatively affect your ability to focus.<br><br> 5. Practice mindfulness: Mindfulness meditation or deep breathing exercises can help you clear your mind and improve your ability to focus. <br><br> Here an article if you want more details: <a href=\"https://jamesclear.com/focus\" target=\"_blank\">ARTICLE</a> "
+      ]
+    },
+    {
+      "tag": "The Feynman Technique",
+      "patterns": [
+        "The Feynman Technique   ",
+        "Feynman Technique",
+        "Feynman "
+      ],
+      "responses": [
+        "Here we go ! the Feynman Technique is a four step process for understanding any topic : <br><br> 1. Choose a concept to learn. Select a topic you're interested in learning about and write it at the top of a blank page in a notebook. <br><br> 2. Teach it to yourself or someone else. Write everything you know about a topic out as if you were explaining it to yourself. Alternately, actually teach it to someone else. <br><br> 3. Return to the source material if you get stuck. Go back to whatever you're learning from a book, lecture notes, podcast  and fill the gaps in your knowledge.<br> <br>4. Simplify your explanations and create analogies. Streamline your notes and explanation, further clarifying the topic until it seems obvious. Additionally, think of analogies that feel intuitive."
+      ]
+    },
+    {
+      "tag": "The Cornell Method",
+      "patterns": [
+        "The Cornell Method   ",
+        "Cornell Methode",
+        "Cornell"
+      ],
+      "responses": [
+        "For sure , here all you need to know about The Cornell Method : <br><br>  The Cornell Method is a note-taking system that involves dividing a piece of paper into three sections: a narrow column on the left-hand side for cues or questions, a wider column on the right-hand side for notes, and a space at the bottom for a summary. The method is used to help students and professionals effectively capture and retain information from lectures, readings, and other sources. To use the Cornell Method, begin by writing the name of the lecture or topic at the top of the page. During the lecture or reading, write notes in the right-hand column, using abbreviations and symbols to save time. After the lecture, review the notes and create questions or cues in the left-hand column to help you remember key points. Finally, write a brief summary of the lecture or reading in the space at the bottom of the page. This method can be a helpful tool for active learning and retention of important information. <br><br> here an example of that <a href=\"https://www.unine.ch/files/live/sites/blog/files/pic/Cornell_feuille.png\" target=\"_blank\">NOTE</a> "
+      ]
+    },
+    {
+      "tag": "SQ3R ",
+      "patterns": [
+        "SQ3R   ",
+        "SQ3R methode"
+      ],
+      "responses": [
+        "SQ3R is the acronym for Survey, Question, Read, Recite, and Review, which are the five steps proposed by Robinson when actively and effectively reading one specific text. Here the five steps to folow : <br><br> Survey (S): initially, the readers start by reviewing the assigned text in order to gain an initial understanding of it by paying attention to its most obvious elements, such as headings, bolded text, or available charts. This first skim provides readers a framework for what will be presented in the text.<br><br>Question (Q), also called Query: from this initial preview, the readers are in the disposition to start generating questions about the content of the text. For example, they could convert the titles into questions, or they could create more general questions such as 'what is this text about?' or 'how could the content of this text be beneficial for me?'.<br><br>Read (R1): as the readers engage in the reading of the text itself, they do it actively, having as a background the work done in the two previous steps. Thus, the questions which were generated during the preview of the text help readers to focus. <br><br> Recite (R2), also called Retrieve or Recall: as readers move through the text, they recite or rehearse the answers to their initial questions, using their own words. This can be done either in an oral or written form, and it is aimed to support the personal formulation and conceptualization of the content of the text.<br><br>Review (R3): after the reading is completed, readers review the content of the text by repeating back to themselves what the main ideas of the text were, by using their own words."
+      ]
+    },
+    {
+      "tag": "The Mind Mapping Technique",
+      "patterns": [
+        "The Mind Mapping Technique ",
+        " Mind Mapping",
+        "The Mind Mapping Technique",
+        "mind maps"
+      ],
+      "responses": [
+        "A mind map involves writing down a central theme and thinking of new and related ideas which radiate out from the centre. By focusing on key ideas written down in your own words and looking for connections between them, you can map knowledge in a way that will help you to better understand and retain information. <br><br> If you want to know how to use this tip here the following steps :  <a href=\"https://www.adelaide.edu.au/writingcentre/sites/default/files/docs/learningguide-mindmapping.pdf\" target=\"_blank\">click</a>"
+      ]
+    },
+    {
+      "tag": "pomodoro",
+      "patterns": [
+        "pomodoro ",
+        "The Pomodoro Technique"
+      ],
+      "responses": [
+        "The Pomodoro Technique is a time management method based on 25-minute stretches of focused work broken by five-minute breaks. Longer breaks, typically 15 to 30 minutes, are taken after four consecutive work intervals. Each work interval is called a pomodoro <br> here some tools help you to use this technique:   <br> Application name: Focus To-Do: Pomodoro and Taches <br> <a href=\"https://pomofocus.io/\" target=\"_blank\">WEBSITE TIMER</a>  "
+      ]
+    },
+    {
+      "tag": "resources",
+      "patterns": [
+        "resources ",
+        "some resources for study ",
+        "source of information  "
+      ],
+      "responses": [
+          "Sure, here are some resources you can use to study: <br><br> 1. Khan Academy - A free online learning platform that offers courses in math, science, humanities, and more.<br> 2. Coursera - Offers free and paid courses from universities and institutions around the world.<br> 3. edX - Another platform that offers free and paid courses from top universities.<br> 4. MIT OpenCourseWare - A free online platform that provides access to course materials from past and current MIT courses.<br> 5. Codecademy - Offers interactive coding courses for free and paid options.<br> 6. Duolingo - A popular language learning app that is free to use.<br> 7. Memrise - Another language learning app that uses spaced repetition and mnemonics to help users remember vocabulary.<br> 7. Crash Course - A YouTube channel that provides engaging and informative videos on a variety of subjects."
+      ]
+    },
+    {
+      "tag": "the Leitner System",
+      "patterns": [
+        "the Leitner System ",
+        "Leitner System "
+
+      ],
+      "responses": [
+          "Sure, here are the steps to implement the Leitner System: <br><br> 1. Create a set of flashcards containing the information you want to memorize.<br><br> 2. Divide the flashcards into different levels based on your level of familiarity with the material.<br><br> 3. Review the flashcards in the first level. If you know the information on a flashcard, move it to the next level. If you struggle with the information, keep the flashcard in the same level.<br><br> 4. Review the flashcards in the second level. If you know the information on a flashcard, move it to the next level. If you struggle with the information, move the flashcard back to the first level.<br><br> 5. Continue to review and move flashcards between levels until you have mastered all the material.<br><br> 6. Focus on the material in the higher levels, as this is the material you need to spend the most time studying. <br><br> By using the Leitner System, you can effectively organize your study material and prioritize your time to focus on the areas where you need the most improvement. "
+      ]
+    },
+    {
+      "tag": "The Method of Loci",
+      "patterns": [
+        "The Method of Loci",
+        " Method of Loci ",
+        " Loci "
+
+      ],
+      "responses": [
+" The Method of Loci, also known as the Memory Palace technique, is a mnemonic device used to improve memory and recall. Here s how it works in a few steps:  <br><br> 1. Choose a familiar location: Start by selecting a place you know well, such as your home or office. This location will be your \"memory palace.\"  <br><br> 2. Create a mental map: Visualize the different rooms, objects, and details of your chosen location. This mental map will serve as a framework for storing and retrieving information. <br><br> 3. Associate information with specific locations: To remember a list of items or concepts, associate each one with a specific location or object in your mental map. For example, if you wanted to remember a grocery list, you might associate each item with a different room in your home. <br><br> 4. Create vivid mental images: To enhance the effectiveness of the method, create vivid mental images that link the information to the location. For example, if you needed to remember to buy bananas, you might imagine a giant bunch of bananas hanging from the ceiling of your kitchen. <br><br> Here a video explain this method : <a href=\"https://www.youtube.com/watch?v=5ESBJLbRwJY\" target=\"_blank\">YOUTUBE</a>"
+      ]
+    }
+  ]
+}
+
+
+
+
